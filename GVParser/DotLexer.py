@@ -28,6 +28,7 @@ class DotLexer(object):
                 'shape'       : 'SHAPE',
                 'style'       : 'STYLE',
                 'peripheries' : 'PERIPHERIES',
+                'tooltip'     : 'TOOLTIP',
                 'width'       : 'WIDTH',
                }
     
